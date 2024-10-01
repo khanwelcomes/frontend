@@ -1,0 +1,108 @@
+
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+    .outline{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 1955px;
+      background-color: hsl(30, 54%, 90%);
+    }
+    .card{
+      background-color: hsl(0, 0%, 100%);
+      width: 736px;
+      height: 1800px;
+      padding: 40px;
+      margin:0;
+      text-align: left;
+      border-radius: 20px;
+    }
+    img{
+      width:100%;
+      border-radius: 20px;
+
+    }
+    .overview h1{
+      font-family: Young Serif;
+      color:hsl(24, 5%, 18%);
+      text-align: left;
+      margin-top:40px;
+      margin-bottom: 25px;
+    }
+    p{
+      font-size:16px;
+      font-family: Outfit;
+    }
+    h2{
+      font-weight: 600;
+      font-family: Young Serif;
+      color:hsl(14, 45%, 36%)
+    }
+    .prepTime{
+      background-color: hsl(330, 100%, 98%);
+      padding: 30px;
+      margin-top: 40px;
+    }
+    .prepTime h2{
+      color: hsl(332, 51%, 32%);
+      font-family: Outfit;
+      margin: 0px;
+      font-weight: 600;
+    }
+    .prepT{
+      font-family: Outfit;
+      margin-bottom: 0px;
+    }
+    .prepT li::marker{
+      color: hsl(332, 51%, 32%);
+    }
+    .prepT li{
+      margin-bottom: 20px;
+      padding-left: 20px;
+    }
+    .ingredients{
+      margin-top:40px;
+      margin-bottom: 70px;
+    }
+    .instructions{
+      margin-bottom: 70px;
+    }
+
+    .ing{
+      padding-left: 20px;
+    }
+
+    .ing li::marker{
+      color: hsl(14, 45%, 36%);
+    }
+    .ing li{
+      margin-bottom: 20px;
+      font-family: Outfit;
+      padding-left: 20px;
+    }
+    .ins{
+      padding-left: 20px;
+    }
+    .ins li::marker{
+      color: hsl(14, 45%, 36%);
+      font-weight: 700;
+    }
+    .ins li{
+      margin-left: 0px;
+      margin-bottom: 20px;
+      font-family: Outfit;
+      padding-left: 20px;
+    }
+    .value{
+      color: hsl(14, 45%, 36%);
+      font-weight: 700;
+    }
+    table{
+      margin-left: 20px;
+      font-family: Outfit;
+      width:"100px";
+      border-collapse: collapse;
+    }
+    td{
+      padding-bottom: 20px;
+    }
