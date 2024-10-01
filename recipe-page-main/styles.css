@@ -11,7 +11,7 @@
     .card{
       background-color: hsl(0, 0%, 100%);
       width: 736px;
-      height: 1800px;
+      height: 1860px;
       padding: 40px;
       margin:0;
       text-align: left;
@@ -100,7 +100,6 @@
     table{
       margin-left: 20px;
       font-family: Outfit;
-      width:"100px";
       border-collapse: collapse;
     }
     td{
